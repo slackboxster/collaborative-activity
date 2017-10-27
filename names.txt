@@ -1,3 +1,7 @@
 Tori Wells
 Zachary Marron
+<<<<<<< HEAD
 
+=======
+Andrew Knudsen
+>>>>>>> 2c1254d63afd12ca3de0ae043cc2a8e0de3b934c
