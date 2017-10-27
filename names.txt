@@ -4,6 +4,7 @@ Tori Wells
 Zachary Marron
 matthew mcleod
 Andrew Knudsen
+James Van Eaton (Ozzie)
 Ryan Heathcote
 Kenneth Honeycutt
 Ian McEachen
@@ -23,5 +24,4 @@ Aaron Sullivan
                      \|  |\        \  \  |  |
                       |  | )____    \  \ \  )___      
                       (  )  /  /    (  )  (/  /
-                     /___\ /__/     /___\ /__/
-
+                     /___\ /__/     /___\ /__/_
